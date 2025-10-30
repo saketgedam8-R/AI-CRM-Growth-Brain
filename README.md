@@ -43,6 +43,7 @@ Empowering sales & marketing teams to grow through **AI-driven insight and autom
 | 🧭 PRD | [`PRD.md`](./PRD.md) | Product Requirements & Strategic Goals |
 | 📈 Data Notebook | [`CRM_EDA_Notebook.ipynb`](./CRM_EDA_Notebook.ipynb) | Data insights & opportunity mapping |
 | 🤖 AI Model | [`ai_lead_scoring_model.py`](./ai_lead_scoring_model.py) | Predictive ML model for lead scoring |
+🌐 Live Demo → [AI-CRM Growth Brain on Streamlit](https://ojahegxutf8m.streamlit.app)
 
 ---
 
