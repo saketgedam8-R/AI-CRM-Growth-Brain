@@ -13,4 +13,4 @@ plotly
 matplotlib
 
 # OpenAI (new client)
-openai>=2.6.1
+openai==0.28.0
