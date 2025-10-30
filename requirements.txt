@@ -1,18 +1,16 @@
-streamlit
-pandas
-numpy
-scikit-learn
-xgboost
-openai
-plotly
-matplotlib
-jupyter
-streamlit>=1.50
-pandas
-openai>=2.6.1
+# Core UI / data libs
 streamlit==1.51.0
 pandas
+numpy
+
+# Machine learning
 scikit-learn
-xgboost
+joblib
+# xgboost  # Uncomment only when you add/need an XGBoost model
+
+# Visualization (optional)
 plotly
-# (keep any other libs you need)
+matplotlib
+
+# OpenAI (new client)
+openai>=2.6.1
