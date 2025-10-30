@@ -10,4 +10,3 @@ jupyter
 streamlit>=1.50
 pandas
 openai
-openai>=1.0.0
