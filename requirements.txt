@@ -9,5 +9,10 @@ matplotlib
 jupyter
 streamlit>=1.50
 pandas
-openai
-openai>=1.0.0
+openai>=2.6.1
+streamlit==1.51.0
+pandas
+scikit-learn
+xgboost
+plotly
+# (keep any other libs you need)
